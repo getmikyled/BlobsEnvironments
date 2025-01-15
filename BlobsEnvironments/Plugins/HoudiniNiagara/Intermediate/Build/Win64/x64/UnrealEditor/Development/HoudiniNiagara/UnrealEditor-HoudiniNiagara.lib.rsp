@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HoudiniNiagara.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Flami\OneDrive\Documents\GitHub\BlobsEnvironments\BlobsEnvironments\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Flami\OneDrive\Documents\GitHub\BlobsEnvironments\BlobsEnvironments\Plugins\HoudiniNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\HoudiniNiagara\Module.HoudiniNiagara.cpp.obj"
+"C:\Users\Flami\OneDrive\Documents\GitHub\BlobsEnvironments\BlobsEnvironments\Plugins\HoudiniNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\HoudiniNiagara\Default.rc2.res"
+/OUT:"C:\Users\Flami\OneDrive\Documents\GitHub\BlobsEnvironments\BlobsEnvironments\Plugins\HoudiniNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\HoudiniNiagara\UnrealEditor-HoudiniNiagara.lib"

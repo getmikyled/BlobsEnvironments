@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Flami\\OneDrive\\Documents\\GitHub\\BlobsEnvironments\\BlobsEnvironments\\Plugins\\HoudiniEngine\\Source\\HoudiniEngineEditor\\HoudiniEngineEditor.Build.cs",
+		"C:\\Users\\Flami\\OneDrive\\Documents\\GitHub\\BlobsEnvironments\\BlobsEnvironments\\Plugins\\HoudiniEngine\\Source\\HoudiniEngineRuntime\\HoudiniEngineRuntime.Build.cs",
+		"C:\\Users\\Flami\\OneDrive\\Documents\\GitHub\\BlobsEnvironments\\BlobsEnvironments\\Plugins\\HoudiniEngine\\Source\\HoudiniEngine\\HoudiniEngine.Build.cs",
+		"C:\\Users\\Flami\\OneDrive\\Documents\\GitHub\\BlobsEnvironments\\BlobsEnvironments\\Plugins\\HoudiniLiveLink\\Source\\HoudiniLiveLink\\HoudiniLiveLink.Build.cs",
+		"C:\\Users\\Flami\\OneDrive\\Documents\\GitHub\\BlobsEnvironments\\BlobsEnvironments\\Plugins\\HoudiniNiagara\\Source\\HoudiniNiagaraEditor\\HoudiniNiagaraEditor.Build.cs",
+		"C:\\Users\\Flami\\OneDrive\\Documents\\GitHub\\BlobsEnvironments\\BlobsEnvironments\\Plugins\\HoudiniNiagara\\Source\\HoudiniNiagara\\HoudiniNiagara.Build.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
